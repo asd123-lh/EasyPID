@@ -34,7 +34,7 @@ mini/
 ├── MDK-ARM/                 # Keil MDK 工程文件和编译输出
 ├── EWARM/                   # IAR EWARM 工程文件
 ├── mini.ioc                 # STM32CubeMX 配置文件
-└── mini.7z                  # 项目压缩包
+
 ```
 
 ## 核心逻辑
